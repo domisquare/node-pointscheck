@@ -1,0 +1,16 @@
+{
+  "name": "pointscheck",
+  "version": "0.1.0",
+  "description": "Check your points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "domi",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "axios-cookiejar-support": "^0.4.2",
+    "tough-cookie": "^2.5.0"
+  }
+}
